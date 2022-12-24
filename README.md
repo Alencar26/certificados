@@ -1,19 +1,19 @@
 # Certificações
 Todas as formações, cursos e eventos que participei até o momento.
 
-## Acadêmico
+## 🎓Acadêmico
 | Órgão emissor | Certificados           | Data de conclusão |
 | ------------- | ---------------------- | ----------------- |
-| Unibrasil     | Bacharelado em Engenharia de Software | Dezembro de 2022 
+|![unibrasil][icons/unibrasil.png] Unibrasil     | Bacharelado em Engenharia de Software | Dezembro de 2022 
 
 
-## Certificações
+## 📜Certificações
 | Órgão emissor     | Certificações                                | Data de emissão |
 | ----------------- | -------------------------------------------- | --------------- |
 | Oralce Univercity | Oracle Cloud Infrastructure Foundations 2021 | 27-02-2022
 
 
-## Cursos
+## 💻Cursos
 | Órgão emissor | Certificados                               | Data de conclusão |
 | ------------- | ------------------------------------------ | ----------------- |
 | Udemy         | Integração Contínua com Testes, Jenkins    | 21-12-2022        |
@@ -28,7 +28,7 @@ Todas as formações, cursos e eventos que participei até o momento.
 | Prime Control | Prime Expert (Expert em teste de software) | 03-10-2019
 
 
-## Bootcamp
+## 🚀Bootcamp
 | Órgão  emissor | Certificados        | Data de conclusão |
 | -------------- | ------------------- | ----------------- |
 | Rocketseat     | OmniStack 11º       | 29-03-2020        |
@@ -36,7 +36,7 @@ Todas as formações, cursos e eventos que participei até o momento.
 | DIO            | Ifood Potência Tech | 17-11-2022
 
 
-## Eventos/Palestras
+## 💬Eventos/Palestras
 | Órgão emissor      | Certificados                                        | Data de participação |
 | ------------------ | --------------------------------------------------- | -------------------- |
 | Rocketseat         | DoWhile 2020                                        | 14 e 15-12-2020      |
