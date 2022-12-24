@@ -37,17 +37,17 @@ Todas as formações, cursos e eventos que participei até o momento.
 
 
 ## Eventos/Palestras
-| Órgão emissor                                       | Certificados       | Data de participação |
-| --------------------------------------------------- | ------------------ | -------------------- |
-| Rocketseat                                          | DoWhile 2020       | 14 e 15-12-2020      |
-| Fiep & Cifal                                        | Road Show          | 20-08-2019           |
-| Atuar profissionalmente no exterior                 | Unibrasil (EVINCI) | 02-04-2019           |
-| Perfil da Alta empregabilidade                      | Unibrasil (EVINCI) | 20-03-2019           |
-| Apresentação de painel (banner) curso Eng. Software | Unibrasil (EVINCI) | 21-10-2020           |
-| A pandemia de covid-19 seis meses depois            | Unibrasil (EVINCI) | 20-10-2020           |
-| Carreira, oportunidades e tecnologia                | Unibrasil (EVINCI) | 20-10-2020           |
-| Gestão das organizações, pessoais e hábitos         | Unibrasil          | 02-08-2021           |
-| Código limpo e boas práticas                        | Unibrasil (EVINCI) | 18-10-2022           |
-| Movimento Maker                                     | Unibrasil (EVINCI) | 19-10-2022
+| Órgão emissor      | Certificados                                        | Data de participação |
+| ------------------ | --------------------------------------------------- | -------------------- |
+| Rocketseat         | DoWhile 2020                                        | 14 e 15-12-2020      |
+| Fiep & Cifal       | Road Show                                           | 20-08-2019           |
+| Unibrasil (EVINCI) | Atuar profissionalmente no exterior                 | 02-04-2019           |
+| Unibrasil (EVINCI) | Perfil da Alta empregabilidade                      | 20-03-2019           |
+| Unibrasil (EVINCI) | Apresentação de painel (banner) curso Eng. Software | 21-10-2020           |
+| Unibrasil (EVINCI) | A pandemia de covid-19 seis meses depois            | 20-10-2020           |
+| Unibrasil (EVINCI) | Carreira, oportunidades e tecnologia                | 20-10-2020           |
+| Unibrasil          | Gestão das organizações, pessoais e hábitos         | 02-08-2021           |
+| Unibrasil (EVINCI) | Código limpo e boas práticas                        | 18-10-2022           |
+| Unibrasil (EVINCI) | Movimento Maker                                     | 19-10-2022           |
 
 
