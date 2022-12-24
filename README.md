@@ -4,7 +4,7 @@ Todas as formações, cursos e eventos que participei até o momento.
 ## 🎓Acadêmico
 | Órgão emissor | Certificados           | Data de conclusão |
 | ------------- | ---------------------- | ----------------- |
-|![unibrasil][icons/unibrasil.png] Unibrasil     | Bacharelado em Engenharia de Software | Dezembro de 2022 
+|![unibrasil][https://github.com/Alencar26/certificados/blob/main/icons/unibrasil.png] Unibrasil     | Bacharelado em Engenharia de Software | Dezembro de 2022 
 
 
 ## 📜Certificações
