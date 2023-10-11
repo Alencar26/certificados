@@ -13,7 +13,8 @@ Todas as formações, cursos e eventos que participei até o momento.
 | Órgão emissor                                 | Certificações                                                                         | Data de emissão |
 | --------------------------------------------- | ------------------------------------------------------------------------------------- | --------------- |
 | ![oracle](icons/oracle.png) Oralce Univercity | Oracle Cloud Infrastructure Foundations 2021 - [abrir](oracle-cloud/eCertificate.pdf) | 27-02-2022      |
-| ![aws](./icons/aws.png) AWS  AWS              | AWS Certified Cloud Practitioner certificate - [abrir](AWS/AWS-Certified-Cloud-Practitioner-certificate.pdf) | 08-05-2023 |
+| ![aws](./icons/aws.png) AWS                   | AWS Certified Cloud Practitioner certificate - [abrir](AWS/AWS-Certified-Cloud-Practitioner-certificate.pdf) | 08-05-2023 |
+| ![aws](./icons/aws.png) AWS                   | AWS Certified Developer - Associate - [abrir](AWS/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf) | 19-08-2023 |
 
 ## 💻Cursos
 
