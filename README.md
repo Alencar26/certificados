@@ -20,7 +20,7 @@ Todas as formações, cursos e eventos que participei até o momento.
 
 | Órgão emissor                                 | Certificados                                                                                            | Data de conclusão |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------- |
-| ![postman](./icons/udemy.png)                 | Postman: The Complete Guide - REST API Testing - [abrir](udemy/postman.pdf)                             | 14-11-2023        |
+| ![postman](./icons/udemy.png)Udemy                 | Postman: The Complete Guide - REST API Testing - [abrir](udemy/postman.pdf)                             | 14-11-2023        |
 | ![aws](./icons/aws.png) AWS                   | AWS Partner Accreditation (Technical) - [abrir](AWS/AWS_Partner-Accreditation.pdf)                      | 13-03-2023        |
 | ![aws](./icons/aws.png) AWS                   | AWS Partner: Cloud Economics Accreditation - [abrir](AWS/AWS_Partner-Cloud_Economics_Accreditation.pdf) | 16-03-2023        |
 | ![udemy](icons/udemy.png)Udemy                | Automação de Testes com Robot Framework - Básico - [abrir](udemy/robot-framework.pdf)                   | 18-03-2023        |
