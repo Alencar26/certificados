@@ -4,22 +4,23 @@ Todas as formações, cursos e eventos que participei até o momento.
 
 ## 🎓Acadêmico
 
-| Órgão emissor                               | Certificados                                           | Data de conclusão |
-| ------------------------------------------- | ------------------------------------------------------ | ----------------- |
+| Órgão emissor                               | Certificados                                                                                                                        | Data de conclusão |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | ![unibrasil](icons/unibrasil.png) Unibrasil | Bacharelado em Engenharia de Software [abrir](unibrasil/ANDR%C3%89%20AUGUSTO%20ROLIM%20DE%20ALENCAR_ENGENHARIA%20DE%20SOFTWARE.pdf) | Dezembro de 2022  |
 
 ## 📜Certificações
 
-| Órgão emissor                                 | Certificações                                                                         | Data de emissão |
-| --------------------------------------------- | ------------------------------------------------------------------------------------- | --------------- |
-| ![oracle](icons/oracle.png) Oralce Univercity | Oracle Cloud Infrastructure Foundations 2021 - [abrir](oracle-cloud/eCertificate.pdf) | 27-02-2022      |
-| ![aws](./icons/aws.png) AWS                   | AWS Certified Cloud Practitioner certificate - [abrir](AWS/AWS-Certified-Cloud-Practitioner-certificate.pdf) | 08-05-2023 |
-| ![aws](./icons/aws.png) AWS                   | AWS Certified Developer - Associate - [abrir](AWS/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf) | 19-08-2023 |
+| Órgão emissor                                 | Certificações                                                                                                    | Data de emissão |
+| --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------- |
+| ![oracle](icons/oracle.png) Oralce Univercity | Oracle Cloud Infrastructure Foundations 2021 - [abrir](oracle-cloud/eCertificate.pdf)                            | 27-02-2022      |
+| ![aws](./icons/aws.png) AWS                   | AWS Certified Cloud Practitioner certificate - [abrir](AWS/AWS-Certified-Cloud-Practitioner-certificate.pdf)     | 08-05-2023      |
+| ![aws](./icons/aws.png) AWS                   | AWS Certified Developer - Associate - [abrir](AWS/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf) | 19-08-2023      |
 
 ## 💻Cursos
 
 | Órgão emissor                                 | Certificados                                                                                            | Data de conclusão |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------- |
+| ![postman](./icons/udemy.png)                 | Postman: The Complete Guide - REST API Testing - [abrir](udemy/postman.pdf)                             | 14-11-2023        |
 | ![aws](./icons/aws.png) AWS                   | AWS Partner Accreditation (Technical) - [abrir](AWS/AWS_Partner-Accreditation.pdf)                      | 13-03-2023        |
 | ![aws](./icons/aws.png) AWS                   | AWS Partner: Cloud Economics Accreditation - [abrir](AWS/AWS_Partner-Cloud_Economics_Accreditation.pdf) | 16-03-2023        |
 | ![udemy](icons/udemy.png)Udemy                | Automação de Testes com Robot Framework - Básico - [abrir](udemy/robot-framework.pdf)                   | 18-03-2023        |
